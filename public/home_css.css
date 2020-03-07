@@ -1,0 +1,28 @@
+#home_logo {
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+
+
+}
+#div2 {
+	text-align: center;
+	color: white;
+	background-color: gray;
+
+}
+
+
+#sub1 {
+  display: inline-block;
+  border-radius: 12px;
+  padding: 12px 42px;
+  font-size:40px;
+}
+
+#sub2 {
+  display: inline-block;
+  border-radius: 12px;
+  padding: 12px 42px;
+  font-size:40px;
+}
